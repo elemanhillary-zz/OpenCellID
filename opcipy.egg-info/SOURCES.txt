@@ -1,0 +1,8 @@
+setup.py
+opcipy/__init__.py
+opcipy/lab.py
+opcipy.egg-info/PKG-INFO
+opcipy.egg-info/SOURCES.txt
+opcipy.egg-info/dependency_links.txt
+opcipy.egg-info/requires.txt
+opcipy.egg-info/top_level.txt

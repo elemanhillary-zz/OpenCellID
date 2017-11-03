@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: opcipy
+Version: 0.0.1
+Summary: A Thin library for the OpenCellID web API products LocationIQand LocationAPI
+Home-page: http://spotipy.readthedocs.org/
+Author: @klique
+Author-email: elemanhillary@gmail.com
+License: LICENSE.txt
+Description: UNKNOWN
+Platform: UNKNOWN
