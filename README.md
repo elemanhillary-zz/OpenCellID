@@ -1,2 +1,2 @@
-## OpenCelliD [![Build Status](https://travis-ci.org/elemanhillary/OpenCellID.svg?branch=master)](https://travis-ci.org/elemanhillary/OpenCellID)
+## OpenCelliD [![Build Status](https://travis-ci.org/elemanhillary/OpenCellID.svg?branch=master)](https://travis-ci.org/elemanhillary/OpenCellID) ![](https://img.shields.io/badge/code-incomplete-red.svg) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/elemanhillary/OpenCellID/issues)
 A thin and light-weight python library to interact with OpenCelliD api products (LocationApi and LocationIQ)
